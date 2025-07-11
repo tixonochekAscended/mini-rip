@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="height: 250px;" src="...">
+  <img style="height: 250px;" src="https://raw.githubusercontent.com/tixonochekAscended/mini-rip/refs/heads/main/Mini-rip%20Logo%20Border%20Radiused.png">
 </div>
 
 ------
