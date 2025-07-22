@@ -222,8 +222,12 @@ In this case:
 - `el2` is equal to `45`
 
 -----
-## ☎️ Community / Contacting the developer / Contributing
+## ☎️ Community Projects & Forks, Contacting the developer, Contributing
 Help is always greatly appreciated - you can use all of Github's features including issues, pull requests and more to contribute to **mini-rip**. If you would ever require any assistance regarding the **mini-rip** programming language or you would just like to join an official community, [we have a discord server.](https://discord.gg/NSK7YJ2R6j). We don't _usually_ speak English there, but we all can and will assist you or just talk to you about whatever you want in English. You can easily contact me as the developer there too.
+
+Here is a list of featured projects (and github forks) regarding mini-rip that are for sure worth your attention:
+- [mini-rip to JS transpiler, mini-rip to web](https://minirip-web.netlify.app/)
+- [macro-rip, a fork of mini-rip with additional sigils](https://github.com/Ict00/macro_rip).
 
 ## 📝 Naming
 If you are wondering why the language is called **mini-rip**, then I surely have an answer for you: I got no idea either. A thought just popped into my head a while ago with an idea for a programming language and some nonsensical name, which was **mini-rip**.
