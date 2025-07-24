@@ -213,10 +213,10 @@ Prompts the user for input and then repeats what they said.
 This is quite a versatile sigil that can do a lot of things. The first argument should be an identifier pointing to a container where the result will be stored. The second argument is an identifier pointing to an existing collection. The third argument should either be a number or an identifier - and is an index that is valid in the context of the collection mentioned as the second argument (collections in mini-rip are first-indexed as in Lua, so the first element is the first index). The fourth argument should either be a number or an identifier. If the fourth argument is equal to `1` (true), then the element at the provided index will be removed and stored in the result container (shifted, popped call it whatever you like), otherwise the element won't be removed and its value will just be stored in the result container.
 ```
 @ a 3 4 5
-. el 2 1
+. el a 2 1
 
 @ b 15 30 45
-. el2 3 0
+. el2 b 3 0
 ```
 In this case:
 - `a` is equal to `3, 5`
